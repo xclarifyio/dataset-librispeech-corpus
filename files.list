@@ -1,0 +1,11 @@
+dev-clean             http://www.openslr.org/resources/12/dev-clean.tar.gz
+dev-other             http://www.openslr.org/resources/12/dev-other.tar.gz
+test-clean            http://www.openslr.org/resources/12/test-clean.tar.gz
+test-other            http://www.openslr.org/resources/12/test-other.tar.gz
+train-clean-100       http://www.openslr.org/resources/12/train-clean-100.tar.gz
+train-clean-360       http://www.openslr.org/resources/12/train-clean-360.tar.gz
+train-other-500       http://www.openslr.org/resources/12/train-other-500.tar.gz
+intro-disclaimers     http://www.openslr.org/resources/12/intro-disclaimers.tar.gz
+original-mp3          http://www.openslr.org/resources/12/original-mp3.tar.gz
+original-books        http://www.openslr.org/resources/12/original-books.tar.gz
+raw-metadata          http://www.openslr.org/resources/12/raw-metadata.tar.gz
