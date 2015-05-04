@@ -9,3 +9,7 @@ Some of these are BIG. Take care when deciding to build or download them!
 ## Makefile
 The Dockerfiles are automatically generated from the Makefile.
 
+## License
+
+CC-BY-4.0: https://creativecommons.org/licenses/by/4.0/
+
